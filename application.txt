@@ -4,3 +4,7 @@ Product Catalog
 - Product name and price are displayed.
 - Product category is displayed.
 - Product availability status is displayed
+
+Product Search
+- Products can be searched by name.
+- Search results are displayed.
