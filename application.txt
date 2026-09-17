@@ -22,6 +22,7 @@ Customer Support
 - Customers can view support information.
 - Support requests can be submitted.
 
+
 Customer Notifications
 - Customers can receive order status notifications.
 - Notification preferences can be managed by customers.
@@ -29,5 +30,6 @@ Customer Notifications
 Order Tracking
 - Customers can view order status.
 - Order status is updated as the order progresses.
+
 
 
