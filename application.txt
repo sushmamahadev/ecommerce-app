@@ -17,6 +17,7 @@ Wishlist
 - Products can be added to a wishlist.
 - Wishlist items can be viewed separately
 
+
 Customer Support
 - Customers can view support information.
 - Support requests can be submitted.
@@ -24,4 +25,9 @@ Customer Support
 Customer Notifications
 - Customers can receive order status notifications.
 - Notification preferences can be managed by customers.
+
+Order Tracking
+- Customers can view order status.
+- Order status is updated as the order progresses.
+
 
